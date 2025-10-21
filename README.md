@@ -1,4 +1,7 @@
 # demo-2api-install
+
+demo实例参考：https://github.com/lzA6/deno-kimi-api
+
 如何把lzA6的2api项目转换成demo单文件版本呢？（2.0版本，如1.0版本请看下方更人性化）
 ```
 # AI 指令：将完整项目转换为 Deno 单文件脚本
